@@ -1,5 +1,5 @@
 # rohan-2106.github.io
-## Ciao 👋
+## Ciao 
 
 Sono uno studente di Informatica.
 
